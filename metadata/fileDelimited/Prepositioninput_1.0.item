@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
-  <TalendMetadata:DelimitedFileConnection xmi:id="_oNrUwCXyEemdn80dG6btVw" name="Prepositioninput" dataPackage="_oNrUwSXyEemdn80dG6btVw" Server="Localhost 127.0.0.1" FilePath="/home/hari/Desktop/elimination.txt" Encoding="US-ASCII" FieldSeparatorValue="&quot;;&quot;" RowSeparatorValue="&quot;\n&quot;"/>
+  <TalendMetadata:DelimitedFileConnection xmi:id="_oNrUwCXyEemdn80dG6btVw" name="Prepositioninput" dataPackage="_oNrUwSXyEemdn80dG6btVw" Server="Localhost 127.0.0.1" FilePath="C:/Users/pravi/Desktop/TEXT_MINING/elimination.txt" Encoding="US-ASCII" FieldSeparatorValue="&quot;;&quot;" RowSeparatorValue="&quot;\n&quot;"/>
   <orgomg.cwm.resource.record:RecordFile xmi:id="_oNrUwSXyEemdn80dG6btVw" name="default" dataManager="_oNrUwCXyEemdn80dG6btVw">
     <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_oNrUwiXyEemdn80dG6btVw" id="_MKQtUCXyEemdn80dG6btVw" label="metadata">
       <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_oNrUwyXyEemdn80dG6btVw" label="Column0" length="15" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
